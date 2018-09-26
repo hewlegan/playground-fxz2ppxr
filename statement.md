@@ -1,8 +1,5 @@
 //My first real actual good script
-
-
 import java.util.Random; 
-
 public class Main {
        
     
