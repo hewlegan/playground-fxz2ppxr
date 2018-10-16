@@ -1,6 +1,4 @@
-#Randomizer
-   
-   I'm not sure why this doesn't work, please tell me in comments.
+
    
     import java.util.Random; 
 
