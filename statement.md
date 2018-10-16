@@ -1,4 +1,4 @@
-   Randomizer
+   #Randomizer
    
    I'm not sure why this doesn't work, please tell me in comments.
    
@@ -7,7 +7,7 @@
     public class Main {
         
     
-    
+    }
     public static void main (String[] args) {
         Random rand = new Random();
 
